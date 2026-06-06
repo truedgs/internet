@@ -1,2 +1,2 @@
-vless://8abac03a-3dae-4e02-ac0b-f2af6a878266@68.178.163.43:179?security=none&encryption=none&headerType=none&type=Backup
+vless://8abac03a-3dae-4e02-ac0b-f2af6a878266@68.178.163.43:179?security=none&encryption=none&headerType=none&type=tcp#Backup
 vless://8abac03a-3dae-4e02-ac0b-f2af6a878266@97.74.82.238:179?security=none&encryption=none&headerType=none&type=tcp#Node
