@@ -1,3 +1,3 @@
 vless://7c5929c6-748c-4fea-b826-49c163f9cf92@zoo.cooxoocoo.space:443?path=%2Fdowloadray&security=tls&encryption=none&host=zoo.cooxoocoo.space&type=ws#DIGI-TEST
 
-hwid=14b9504a32c209db
+x-hwid: 14b9504a32c209db
